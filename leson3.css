@@ -1,0 +1,43 @@
+h1{
+    max-width: 600px;
+text-align: center;
+margin-left: 600px;
+    color: blue;
+    background-color: rgb(255, 179, 79);
+    
+}
+.A{
+
+  margin-left: 600px;
+}
+.D{
+    background-color: aquamarine;
+}
+
+.F{
+ background-color: rgb(255, 213, 249);
+ padding-left:10px ;
+ padding-bottom: 10px;
+ max-width: 500px;
+}
+p{
+    max-width: 450px;
+
+}
+.F2{
+    background-color: #f9ffa3;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.vse{
+    display: flex;
+}
+.R{
+    max-width: 500px;
+}
+.G{
+    display: flex;
+}
+.ppp{
+    padding-right: 10px;
+}
